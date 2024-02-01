@@ -1,4 +1,6 @@
 # Data analyst
+### Technical skills:
+Power BI, Tableau, Teamwork Advanced Excel, MS Word, PowerPoint, MS SQL Server, PostgreSQL, Microsoft Office, Outlook, Adobe products, Organizational, analytical, and critical thinking.
 
 ### Education
 Post Graduation: Durham College (Data Analytics for Business Decision Making), 08/2023
