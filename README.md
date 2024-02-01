@@ -26,10 +26,15 @@ Medi Assist Inc. Mumbai, India**
 ### Projects
 **Data Analysis and Research Project - Electric Vehicles**
 - Conducted a thorough analysis of electric vehicles, utilizing Python for data cleaning and analysis. The project showcased the dominance of electric vehicles in fuel efficiency, emphasized the positive impact of AWD and 4WD drivetrains, and highlighted the industry's commitment to charging infrastructure growth. Demonstrating proficiency in data analysis and visualization, I extracted actionable insights from complex datasets.
+  
 ![Electric_vehicle](/assets_image/bikebat.jpg)
+
+
 **Data Analysis and Model Optimization**
 - Diabetes Prediction: Analyzed a diabetes prediction dataset, refining it by addressing outliers and identifying key predictors like Glucose, Age, BMI, and Pregnancy. Strategically using Lasso for feature reduction, I boosted model accuracy from 63% to 75%. This optimization also improved precision, recall, and f1-score for both diabetes and non-diabetes predictions. The project showcased refining datasets and optimizing predictive models.
+  
 ![Diabetes_Prediction](/assets_image/diabetes_prevention.png)
+
 
 **Data Visualization-Madhav E-commerce Sales**
 - Analyzed e-commerce sales data, and created an interactive dashboard using Power BI.
