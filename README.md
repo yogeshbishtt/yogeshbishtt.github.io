@@ -18,17 +18,15 @@
 ### Work Experience
 **CRM-Accounts TPA Executive, Jan 2021 – July 2021
 Medi Assist Inc. Mumbai, India** 
-
+- Implemented a seamless data integration process where customer information is efficiently uploaded to the CRM system. Upon completion of claim generation, strategically utilized SQL queries in the database to facilitate the settlement of claims, ensuring accuracy and efficiency in the claims management workflow.
 - Demonstrated adept handling of large datasets using MS Excel, CRM, and other relevant tools, ensuring accuracy and completeness in health insurance settlement processes.
 - Collaborated seamlessly with medical professionals to address claims-related queries, showcasing strong interpersonal and communication skills vital for effective cross-functional teamwork.
 - Applied analytical thinking to resolve complex health insurance scenarios, showcasing a professional approach to problem-solving
-- Managed detailed documentation for claims initiation using MS Excel, CRM, and other relevant tools, emphasizing a commitment to precision and accuracy—a hallmark of professionalism, particularly in roles requiring 
-  meticulous documentation.
 
 **Customer Relationship Associate, August 2019 – September 2020 ICICI Lombard, Mumbai India** 
+- Utilized Power BI for in-depth analysis of customer data, including historical claims and insurance purchase patterns over multiple years. Leveraged insights to tailor personalized offers and recommend optimal insurance plans, enhancing retention strategies for an elevated customer experience.
 - Spearheaded insurance policy sales, demonstrating the ability to understand product intricacies and communicate benefits effectively.
 - Elucidated insurance benefits and advantages to customers, showcasing strong communication skills essential for data analysis report interpretation, and stakeholder interaction.
-- Managed customer emails and feedback, maintaining high satisfaction levels. This experience translates to the ability to analyze customer data and feedback for actionable insights.
 - Successfully retained and renewed customer insurance policies, contributing significantly to increased customer retention—a key metric in business analysis.
 
 ### Projects
