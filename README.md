@@ -16,6 +16,14 @@
 - Bachelor of Commerce: Mumbai University (Financial Markets), 05/2019
 
 ### Work Experience
+**Blue OnStar Welcome Agent, December 2023 – Present
+Concentrix (General Motors) Oshawa, Ontario**
+- Offer customized solutions to Blue OnStar customers, aligning services with their vehicle connectivity requirements.
+- Serve as a liaison between customers and GM Motors' technical teams, ensuring seamless service delivery.
+- Enhance sales presentations with expertise in automotive connectivity, showcasing the advantages of Blue OnStar technology.
+- Stay informed about automotive trends, enabling proactive customer engagement and tailored recommendations.
+
+
 **CRM-Accounts TPA Executive, Jan 2021 – July 2021
 Medi Assist Inc. Mumbai, India** 
 - Implemented a seamless data integration process where customer information is efficiently uploaded to the CRM system. Upon completion of claim generation, strategically utilized SQL queries in the database to facilitate the settlement of claims, ensuring accuracy and efficiency in the claims management workflow.
