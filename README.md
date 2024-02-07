@@ -47,5 +47,13 @@ Medi Assist Inc. Mumbai, India**
 
 ![E-commerce](/assets_image/e-commerce.jpg)
 
-<h3 align="left">Languages and Tools:</h3>
+
+**Comprehensive Analysis of SQL Project Complexity and Business Impact**
+
+- The SQL project encapsulates three tiers of complexity, spanning tasks from identifying senior employees to analyzing top invoice countries and determining customer spending habits. This holistic approach fosters a nuanced understanding of SQL querying techniques, empowering businesses to enhance operational efficiency and decision-making processes.
+
+![Music_store](/assets_image/record.GIF)
+
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
