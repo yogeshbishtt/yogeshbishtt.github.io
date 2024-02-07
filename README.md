@@ -52,7 +52,7 @@ Medi Assist Inc. Mumbai, India**
 
 - The SQL project encapsulates three tiers of complexity, spanning tasks from identifying senior employees to analyzing top invoice countries and determining customer spending habits. This holistic approach fosters a nuanced understanding of SQL querying techniques, empowering businesses to enhance operational efficiency and decision-making processes.
 
-![Music_store](/assets_image/record.GIF)
+![Music_store](/assets_image/record.gif)
 
 
   <h3 align="left">Languages and Tools:</h3>
