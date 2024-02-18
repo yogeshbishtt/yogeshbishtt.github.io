@@ -24,13 +24,15 @@ Concentrix (General Motors) Oshawa, Ontario**
 - Stay informed about automotive trends, enabling proactive customer engagement and tailored recommendations.
 
 
-**CRM-Accounts TPA Executive, Jan 2021 – July 2021
+**Data Analyst, Jan 2021 – July 2021
 Medi Assist Inc. Mumbai, India** 
-- Implemented a seamless data integration process where customer information is efficiently uploaded to the CRM system. Upon completion of claim generation, strategically utilized SQL queries in the database to facilitate the settlement of claims, ensuring accuracy and efficiency in the claims management workflow.
-- Demonstrated adept handling of large datasets using MS Excel, CRM, and other relevant tools, ensuring accuracy and completeness in health insurance settlement processes.
-- Collaborated seamlessly with medical professionals to address claims-related queries, showcasing strong interpersonal and communication skills vital for effective cross-functional teamwork.
-- Applied analytical thinking to resolve complex health insurance scenarios, showcasing a professional approach to problem-solving
-
+- Collaborated with Business Analysts to gather data requirements and address specific business problems.
+- Collected, cleaned, and prepared data from diverse sources for analytical processes..
+- Developed dashboards, reports, and visualizations to present data insights to stakeholders.
+- Worked closely with the senior data team to interpret data patterns and trends, contributing to business strategy
+formulation.
+- Maintained and updated databases to ensure data quality and accuracy. Conducted troubleshooting and resolved
+data-related issues in real-time
 **Customer Relationship Associate, August 2019 – September 2020 ICICI Lombard, Mumbai India** 
 - Utilized Power BI for in-depth analysis of customer data, including historical claims and insurance purchase patterns over multiple years. Leveraged insights to tailor personalized offers and recommend optimal insurance plans, enhancing retention strategies for an elevated customer experience.
 - Spearheaded insurance policy sales, demonstrating the ability to understand product intricacies and communicate benefits effectively.
