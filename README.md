@@ -33,11 +33,12 @@ Medi Assist Inc. Mumbai, India**
 formulation.
 - Maintained and updated databases to ensure data quality and accuracy. Conducted troubleshooting and resolved
 data-related issues in real-time
-**Customer Relationship Associate, August 2019 – September 2020 ICICI Lombard, Mumbai India** 
-- Utilized Power BI for in-depth analysis of customer data, including historical claims and insurance purchase patterns over multiple years. Leveraged insights to tailor personalized offers and recommend optimal insurance plans, enhancing retention strategies for an elevated customer experience.
-- Spearheaded insurance policy sales, demonstrating the ability to understand product intricacies and communicate benefits effectively.
-- Elucidated insurance benefits and advantages to customers, showcasing strong communication skills essential for data analysis report interpretation, and stakeholder interaction.
-- Successfully retained and renewed customer insurance policies, contributing significantly to increased customer retention—a key metric in business analysis.
+
+**Data Analyst, August 2019 – September 2020 ICICI Lombard, Mumbai India** 
+- Assisted in data collection, cleaning, and preparation for analytical processes.
+- Contributed to the development of dashboards and reports for presenting data insights.
+- Collaborated with team members to interpret data and provide actionable recommendations.
+- Participated in the improvement of data management processes within the organization.
 
 ### Projects
 **Data Analysis and Research Project - Electric Vehicles**
